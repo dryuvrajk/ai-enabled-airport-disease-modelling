@@ -1,11 +1,4 @@
-# Edge-based control of disease propagation through the world-wide airport network
-Nicholas A. Yager <sup>1</sup> and Matthew Taylor <sup>2</sub>
-
-<sup>1</sup> Department of Biochemistry, State University of New York at 
-Geneseo, Geneseo, New York 14454<br>
-<sup>2</sup> Department of Biology, State University of New York at Geneseo, 
-Geneseo, New York 14454
-
+# AI Enabled Edge-based control of disease propagation through the world-wide airport network
 
 ## Abstract
 
