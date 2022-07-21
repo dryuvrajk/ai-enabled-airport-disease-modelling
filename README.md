@@ -1,5 +1,7 @@
 # AI Enabled Edge-based control of disease propagation through the world-wide airport network
 
+NOTE: Please download DATA.zip and extract it to access files.
+
 ## Abstract
 
 Airplanes serve as vital transportation in a highly globalized and
